@@ -3,7 +3,7 @@ Trabalho sobre busca heurística
 
 Implementação dos métodos de busca gulosa, A* e algumas de suas variações
 
-Os códigos foram baseados no arquivo disponiível em: https://github.com/aimacode/aima-python/blob/master/search4e.ipynb
+Os códigos foram baseados no arquivo disponível em: https://github.com/aimacode/aima-python/blob/master/search4e.ipynb
 
 ## Equipe:
 1. Henrique Matheus Alves Nunes
